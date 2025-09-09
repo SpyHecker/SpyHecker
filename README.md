@@ -42,9 +42,3 @@ _Visualizing my year of coding in a smooth curve graph!_
 ![](https://github-profile-trophy.vercel.app/?username=SpyHecker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-## 🌐 Social Links
-
-
----
----
