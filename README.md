@@ -1,5 +1,7 @@
+
 # 🌌 Welcome to My Universe
 > _Turning coffee ☕ into code, and ideas 💡 into reality._
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ap2611&label=Profile%20views&color=0e75b6&style=flat" alt="ap2611" /> </p>
 
 ---
 
