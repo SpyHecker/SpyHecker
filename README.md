@@ -15,15 +15,11 @@ For me, coding isn’t just a skill — it’s my way of making the digital worl
 ## 💬 Quote I Live By
 > "Code is like humor. When you have to explain it, it’s bad."
 
----    
-
-## Tech Stack ❌ Aresnel ✔️
-
 ---
 
-# 🚀 Tech Arsenal
+## 🚀 Tech Arsenal
 
-## 🎨 Frontend
+### 🎨 Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -34,7 +30,7 @@ For me, coding isn’t just a skill — it’s my way of making the digital worl
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
@@ -44,7 +40,7 @@ For me, coding isn’t just a skill — it’s my way of making the digital worl
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
@@ -55,7 +51,7 @@ For me, coding isn’t just a skill — it’s my way of making the digital worl
 
 ---
 
-## 🗄️ Database
+### 🗄️ Database
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
@@ -66,7 +62,7 @@ For me, coding isn’t just a skill — it’s my way of making the digital worl
 
 ---
 
-## 🔐 Cybersecurity
+### 🔐 Cybersecurity
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
